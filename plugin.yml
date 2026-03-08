@@ -1,0 +1,5 @@
+name: EsterEggPlus
+author: AidenKR
+version: 5.0.0
+api: 5.0.0
+main: AidenKR\EsterEggPlus\EsterEggPlus
